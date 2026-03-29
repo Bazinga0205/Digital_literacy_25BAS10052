@@ -1,0 +1,8 @@
+
+Think of ransomware as a digital version of a kidnapping, but instead of a person, the hackers take your data hostage. They use malicious software to lock you out of your own files,everything from family photos to a company’s entire financial history, and then demand a "ransom" (usually in cryptocurrency like Bitcoin) to give you the digital key to unlock them.
+It usually plays out in a few predictable steps:
+The Hook: It almost always starts with a moment of human error—like clicking a link in a sketchy email that looks like a "shipping update" or downloading a file from a website that isn't quite right.
+The Silent Takeover: Once you click, the malware quietly installs itself and starts hunting for your most important files.
+The Lock: It runs an encryption code that scrambles those files, making them completely unreadable.
+The Ransom Note: Suddenly, a message pops up on your screen telling you that your data is gone unless you pay up within a certain timeframe.
+While it can happen to anyone, hackers love to target "big fish" like hospitals, schools, or city governments. They pick these targets because they know these organizations can't afford to be offline for even a few hours, making them more likely to pay. The consequences are pretty scary—not only do victims lose a lot of money, but if they don't pay, their private information is often leaked onto the "dark web" for everyone to see.

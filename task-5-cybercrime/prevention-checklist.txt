@@ -1,0 +1,8 @@
+Here is a more condensed version of the 'Stay Safe Online' checklist for college students:
+
+Secure Your Accounts:Always enable Multi-Factor Authentication on your social media and student portals. This ensures that even if someone gets your password, they can't log in without your phone's verification.
+The UPI Golden Rule:** Never enter your UPI PIN to receive money. If someone asks you to scan a code or enter a PIN to "claim a prize" or "verify a refund," it is a scam.
+   
+Verify Before Clicking: Be skeptical of "Work from Home" offers on WhatsApp or links sent from unknown numbers. Always check that a URL starts with `https://` before entering any login details.
+Protect Your Digital Reputation:Regularly check your privacy settings and remember that your posts, comments, and tagged photos form a "digital footprint" that future employers will see.
+Report Cybercrime Immediately: If you are scammed or harassed, report it at cybercrime.gov.in or call the National Helpline at **1930** right away.
